@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/images">
-        <file>destktopQT.jpg</file>
-        <file>headerQT.jpg</file>
-        <file>newQT.jpg</file>
-    </qresource>
-</RCC>
